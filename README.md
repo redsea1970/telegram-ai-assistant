@@ -44,3 +44,7 @@ flowchart LR
     A --> FB[Обратная связь 👍/👎]
     FB --> F[feedback.json]
 ```
+
+## Архитектура
+
+Подробная схема проекта: [ARCHITECTURE.md](ARCHITECTURE.md)
